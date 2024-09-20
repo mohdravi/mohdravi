@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋,it's Ravi<br><br>Passionate AI Engineer | Machine Learning | Data Analysis | NLP<br><br>To utilize my knowledge and ideas in the field of data science, machine Learning and data analysis towards the smooth functioning of organization, I realized that, satisfaction is a book of achievement, which hold learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
+Hi there 👋,it's Ravi<br><br>Passionate AI Engineer | Expert in Data Science & Gen AI | Computer Vision <br><br>To utilize my knowledge and ideas in the field of data science, machine Learning and data analysis towards the smooth functioning of organization, I realized that, satisfaction is a book of achievement, which hold learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
 
 ## 🌐 Socials:
